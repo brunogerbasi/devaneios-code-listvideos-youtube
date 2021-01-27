@@ -1,0 +1,66 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:'Roboto', sans-serif;
+}
+*{
+    box-sizing: border-box;
+}
+header{
+    background-color: #FB9FAF;
+    border-bottom: solid 2px #3A3A90;
+    padding:20px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;    
+}
+    header .logo{
+        width:35%;
+    }
+        header .logo img{
+            max-width:100%;
+        }
+
+    header .busca{
+        width:65%;
+    }
+        header .busca input{
+            height:45px;
+            width:100%;
+            font-size:22px;
+        }
+.container{
+    padding-top:20px;
+    padding-bottom:20px;
+    display:flex;
+    justify-content: stretch;
+}
+    .container .lista-video{
+        background-color: #ECECFB;
+        padding:10px;
+        margin-left:20px;
+        margin-right: 10px;
+        width:35%;
+    
+    }
+        .container .lista-video .item{
+            background-color:#F7F7F7;
+            display:flex;
+            align-items:center;
+            margin-bottom: 10px;
+        }
+        .container .lista-video .item .titulos-videos{
+            padding:10px;
+            
+        }
+            .container .lista-video .item .titulos-videos h2{
+                font-size:14px;
+            }
+    .container .video{
+        display:flex;
+        width:65%;
+        margin-left:10px;
+        margin-right:20px;
+        background-color:#ECECFB;
+    }
+        
