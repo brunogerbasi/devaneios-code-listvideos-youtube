@@ -42,3 +42,12 @@ https://youtu.be/e46gJ6Iv78w
 
 React JS - #13 Action e Reducer do player
 https://youtu.be/GDd_EVB7xhE
+
+14 - onClick para exibir os vídeos
+https://youtu.be/fgPfDZp4C3M
+
+React JS - 15 Configurando o Player
+https://youtu.be/vV7y_Wm0rwg
+
+React JS - 16 React JS - #16 Loader, spinner
+https://youtu.be/YeweSgogwGk
